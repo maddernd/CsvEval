@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "csv-parse": "^5.5.5",
+    "csv-parser": "^3.0.0",
+    "csv-stringify": "^6.4.6",
+    "csv-writer": "^1.6.0",
+    "mathjs": "^12.4.1"
+  },
+  "name": "csveval",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/csv-parse": "^1.2.2",
+    "@types/csv-stringify": "^3.1.0",
+    "@types/mathjs": "^9.4.2",
+    "@types/node": "^20.12.3",
+    "nodemon": "^3.1.0",
+    "typescript": "^5.4.3"
+  }
+}
